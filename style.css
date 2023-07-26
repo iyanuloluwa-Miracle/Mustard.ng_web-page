@@ -6,6 +6,7 @@
 
 body{
     font-family: 'Lato',sans-serif;
+    font-style: normal;
 }
 
 nav ul{
@@ -137,6 +138,35 @@ li{
     margin-bottom: 40px;
 }
 
+
+/* Section-3 */
+
+.section-paragraph{
+    color:#4269F2;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 100px;
+}
+
+.section-h2{
+    color: #1A1A1A;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 40px; /* 80% */
+    letter-spacing: -0.75px;
+    margin-top: 20px;
+}
+.stash{
+    color:#28A745;
+}
+
+
+
+
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 768px) {
     
@@ -169,6 +199,20 @@ li{
     justify-content: center;
 
 }
+
+.section-paragraph{
+    font-size: 11px;
+    margin-top: 70px;
+}
+
+
+.section-h2{
+    font-size: 26px;
+}
+.stash{
+    color:#28A745;
+}
+
 
 }
 
