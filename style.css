@@ -237,14 +237,72 @@ li{
 }
 
 
+.pay-outline-section{
+    background:#28A745;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 140px;
+}
+
+.payment-text{
+    color: #FFF;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 40px; 
+}
+
+.payment-paragraph{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 30px; 
+}
+
+.payment-button{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    margin-top: 50px;
+}
 
 
+.google-button{
+    display: flex;
+    padding: 10.741px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 5.37px;
+    border-radius: 5.37px;
+    border: none;
+    background: #FFF;
+    box-shadow: 1.0740740299224854px 5.907407283782959px 16.11111068725586px 0px rgba(51, 51, 51, 0.08);
+}
+.apple-button{
+    display: flex;
+    padding: 10.741px;
+    flex-direction: row;
+    margin-left: 10px;
+    align-items: center;
+    justify-content: center;
+    gap: 5.37px;
+    border-radius: 5.37px;
+    border: none;
+    background: #FFF;
+    box-shadow: 1.0740740299224854px 5.907407283782959px 16.11111068725586px 0px rgba(51, 51, 51, 0.08);
 
+}
 
-
-
-
-
+.payment-wrapper{
+    margin-top: 90px;
+    
+}
 
 
 
@@ -333,9 +391,28 @@ li{
     margin-top: 70px;
 }
 
+.payment-text{
+    text-align: center;
+    font-size: 21.182px;
+ /* 95.238% */
+}
 
+.payment-paragraph{
+    text-align: center;
+    font-size: 12px;
 
+}
 
+.payment-image{
+    width: 90%;
+}
+
+.payment-wrapper{
+    margin-top: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 }
