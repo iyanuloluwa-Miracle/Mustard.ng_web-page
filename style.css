@@ -32,6 +32,7 @@ li{
     margin-left: 48px;
 }
 .header-section{
+
     display: flex;
     align-items: center;
     justify-content:space-evenly;
@@ -127,7 +128,7 @@ li{
 .wrapper{
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
     flex-wrap: wrap;
 
 
@@ -205,6 +206,9 @@ li{
     margin-top: 70px;
 }
 
+.paragraph-text{
+    font-size: 11px;
+}
 
 .section-h2{
     font-size: 26px;
@@ -212,6 +216,19 @@ li{
 .stash{
     color:#28A745;
 }
+.advert-image{
+    width: 100%;
+    
+}
+
+
+
+
+
+
+
+
+
 
 
 }
