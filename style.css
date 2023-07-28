@@ -328,6 +328,7 @@ li{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
     
 }
 .Asset-image{
@@ -497,7 +498,6 @@ li{
     justify-content: center;
     align-items: center;
 }
-
 
 
 
