@@ -304,6 +304,75 @@ li{
     
 }
 
+.Exchange-rate-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 100px;
+
+}
+
+
+
+
+.interest-section{
+    width: 618px;
+    height: 493px;
+    border-radius: 24px;
+    background:#FFF9CC;
+    
+
+}
+.interest-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.Asset-image{
+    margin-top: 90px;
+
+}
+
+.currency-wrapper{
+    display: flex;
+    align-items: center;
+    gap: 28px;
+}
+
+.currency-wrapper-space{
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    margin-top: 60px;
+
+}
+
+
+.currency-text{
+    color: #1A1A1A;
+    font-size: 20px;
+
+}
+
+.currency-paragraph{
+    margin-top: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -413,6 +482,23 @@ li{
     align-items: center;
     justify-content: center;
 }
+
+.currency-text{
+    font-size: 18px;
+}
+.currency-paragraph{
+    font-size: 15px;
+}
+
+#currency_wrapper{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
 
 
 }
