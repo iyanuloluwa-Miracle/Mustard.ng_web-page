@@ -363,7 +363,18 @@ li{
 }
 
 
+.cta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+   
+}
 
+.cta-image{
+    width: 78%;
+}
 
 
 
@@ -497,6 +508,15 @@ li{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+.cta-image{
+    display: none;
+    
+}
+
+.cta{
+    margin-top: 60px;
+   
 }
 
 
