@@ -454,6 +454,8 @@ li{
     text-transform: capitalize;
 }
 
+
+
 /*Footer*/
 
 .footer-wrapper{
@@ -498,6 +500,17 @@ li{
 }
 
 .footer-header5{
+    color: #3A3A3A;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 30px;
+}
+
+
+.footer-header style{
     color: #3A3A3A;
     font-family: Lato;
     font-size: 16px;
@@ -747,6 +760,23 @@ li{
     align-items: center;
     justify-content: center;
 }
+
+.footer-header{
+    font-size: 15px;
+}
+
+.footer-header5{
+    font-size: 13px;
+}
+
+.footer-header style{
+    text-align: center;
+}
+
+.subscribe-button{
+    width: 380px;
+}
+
 
 
 
