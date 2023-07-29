@@ -588,6 +588,36 @@ li{
     margin-top: 60px;
    
 }
+.savings-text{
+    text-align: center;
+}
+.savings-paragraph{
+    text-align: center;
+}
+
+.Testimonial-image{
+    width: 98%;
+}
+
+.testimonial-header{
+    text-align: center;
+    font-size: 25px;
+}
+
+.testimonial-paragraph{
+    text-align: center;
+    font-size: 15px;
+}
+
+.testimonial-heading5{
+    text-align: center;
+}
+
+.testimonal_group_images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
